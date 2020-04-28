@@ -6,6 +6,8 @@
 
 _This application is a clone of Reddit, built using React and Redux._
 
+## [Working Demo Link](https://dustatron.github.io/reddit-clone/)
+
 ## Component Tree / Wireframe
 ![component tree](src/img/wireframe.jpg)
 
